@@ -8,7 +8,7 @@
 % power, and pitch angle.
 %
 
-% Copyright 2021-25 The MathWorks, Inc.
+% Copyright 2022-25 The MathWorks, Inc.
 
 %% Model
 %
