@@ -15,6 +15,7 @@
 % The following figure shows the model of a wind turbine.The mechanical
 % and electrical domains each require their own Solver Configuration block.
 %
+% doc open_system
 
 open_system('sscv_wind_turbine.slx')
 
